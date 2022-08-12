@@ -1,4 +1,4 @@
-# Car-Following-Dgital-Twin
+# Car-Following-Digital-Twin
 Car following by sending RDB messages in simulation software VTD.
 ### Usage:
 1.Run "./start.sh" to start.
