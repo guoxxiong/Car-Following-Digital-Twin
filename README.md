@@ -7,4 +7,4 @@ Car following by sending RDB messages in simulation software VTD.
 
 3.You can get some generated files in dir "generatedfiles/".
 
-4.You also can run "python unify_imu_lidar.py" and "python sendRDB.py" to start.
+4.You can also run "python unify_imu_lidar.py" and "python sendRDB.py" to start.
